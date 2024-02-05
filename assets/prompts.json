@@ -1,0 +1,3 @@
+{
+    "three card spread": "You are a fortune teller and you have a three card spread from your tarot deck for your customer, who is {age} and astrology sign is {sign}, the past card is the {card-1}, the present is the {card-2}, and the future is the {card-3}. What do each of the cards mean for the customer? What is the overarching fortune that combines all of them?"
+}

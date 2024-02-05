@@ -1,0 +1,53 @@
+{
+    "Zodiac": {
+      "Aries": {
+        "Dates": "March 21 - April 19",
+        "RulingPlanet": "Mars"
+      },
+      "Taurus": {
+        "Dates": "April 20 - May 20",
+        "RulingPlanet": "Venus"
+      },
+      "Gemini": {
+        "Dates": "May 21 - June 20",
+        "RulingPlanet": "Mercury"
+      },
+      "Cancer": {
+        "Dates": "June 21 - July 22",
+        "RulingPlanet": "Moon"
+      },
+      "Leo": {
+        "Dates": "July 23 - August 22",
+        "RulingPlanet": "Sun"
+      },
+      "Virgo": {
+        "Dates": "August 23 - September 22",
+        "RulingPlanet": "Mercury"
+      },
+      "Libra": {
+        "Dates": "September 23 - October 22",
+        "RulingPlanet": "Venus"
+      },
+      "Scorpio": {
+        "Dates": "October 23 - November 21",
+        "RulingPlanet": "Pluto (Mars - traditional)"
+      },
+      "Sagittarius": {
+        "Dates": "November 22 - December 21",
+        "RulingPlanet": "Jupiter"
+      },
+      "Capricorn": {
+        "Dates": "December 22 - January 19",
+        "RulingPlanet": "Saturn"
+      },
+      "Aquarius": {
+        "Dates": "January 20 - February 18",
+        "RulingPlanet": "Uranus (Saturn - traditional)"
+      },
+      "Pisces": {
+        "Dates": "February 19 - March 20",
+        "RulingPlanet": "Neptune (Jupiter - traditional)"
+      }
+    }
+  }
+  

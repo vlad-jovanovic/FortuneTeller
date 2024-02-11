@@ -1,1 +1,4 @@
+# Virtual environment should not be uploaded to git repo
 .venv
+# Full quality images that are going ot be used to create smaller ones
+assets/cardfaces/fullimages/*.jpg

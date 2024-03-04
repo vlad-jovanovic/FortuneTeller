@@ -1,0 +1,393 @@
+[
+    {
+      "ordering": 0,
+      "arcana": "Major Arcana",
+      "name": "The Fool"
+    },
+    {
+      "ordering": 1,
+      "arcana": "Major Arcana",
+      "name": "The Magician"
+    },
+    {
+      "ordering": 2,
+      "arcana": "Major Arcana",
+      "name": "The High Priestess"
+    },
+    {
+      "ordering": 3,
+      "arcana": "Major Arcana",
+      "name": "The Empress"
+    },
+    {
+      "ordering": 4,
+      "arcana": "Major Arcana",
+      "name": "The Emperor"
+    },
+    {
+      "ordering": 5,
+      "arcana": "Major Arcana",
+      "name": "The Hierophant"
+    },
+    {
+      "ordering": 6,
+      "arcana": "Major Arcana",
+      "name": "The Lovers"
+    },
+    {
+      "ordering": 7,
+      "arcana": "Major Arcana",
+      "name": "The Chariot"
+    },
+    {
+      "ordering": 8,
+      "arcana": "Major Arcana",
+      "name": "Strength"
+    },
+    {
+      "ordering": 9,
+      "arcana": "Major Arcana",
+      "name": "The Hermit"
+    },
+    {
+      "ordering": 10,
+      "arcana": "Major Arcana",
+      "name": "Wheel of Fortune"
+    },
+    {
+      "ordering": 11,
+      "arcana": "Major Arcana",
+      "name": "Justice"
+    },
+    {
+      "ordering": 12,
+      "arcana": "Major Arcana",
+      "name": "The Hanged Man"
+    },
+    {
+      "ordering": 13,
+      "arcana": "Major Arcana",
+      "name": "Death"
+    },
+    {
+      "ordering": 14,
+      "arcana": "Major Arcana",
+      "name": "Temperance"
+    },
+    {
+      "ordering": 15,
+      "arcana": "Major Arcana",
+      "name": "The Devil"
+    },
+    {
+      "ordering": 16,
+      "arcana": "Major Arcana",
+      "name": "The Tower"
+    },
+    {
+      "ordering": 17,
+      "arcana": "Major Arcana",
+      "name": "The Star"
+    },
+    {
+      "ordering": 18,
+      "arcana": "Major Arcana",
+      "name": "The Moon"
+    },
+    {
+      "ordering": 19,
+      "arcana": "Major Arcana",
+      "name": "The Sun"
+    },
+    {
+      "ordering": 20,
+      "arcana": "Major Arcana",
+      "name": "Judgment"
+    },
+    {
+      "ordering": 21,
+      "arcana": "Major Arcana",
+      "name": "The World"
+    },
+    {
+      "ordering": 22,
+      "arcana": "Wands",
+      "name": "Ace of Wands"
+    },
+    {
+      "ordering": 23,
+      "arcana": "Wands",
+      "name": "Two of Wands"
+    },
+    {
+      "ordering": 24,
+      "arcana": "Wands",
+      "name": "Three of Wands"
+    },
+    {
+      "ordering": 25,
+      "arcana": "Wands",
+      "name": "Four of Wands"
+    },
+    {
+      "ordering": 26,
+      "arcana": "Wands",
+      "name": "Five of Wands"
+    },
+    {
+      "ordering": 27,
+      "arcana": "Wands",
+      "name": "Six of Wands"
+    },
+    {
+      "ordering": 28,
+      "arcana": "Wands",
+      "name": "Seven of Wands"
+    },
+    {
+      "ordering": 29,
+      "arcana": "Wands",
+      "name": "Eight of Wands"
+    },
+    {
+      "ordering": 30,
+      "arcana": "Wands",
+      "name": "Nine of Wands"
+    },
+    {
+      "ordering": 31,
+      "arcana": "Wands",
+      "name": "Ten of Wands"
+    },
+    {
+      "ordering": 32,
+      "arcana": "Wands",
+      "name": "Page of Wands"
+    },
+    {
+      "ordering": 33,
+      "arcana": "Wands",
+      "name": "Knight of Wands"
+    },
+    {
+      "ordering": 34,
+      "arcana": "Wands",
+      "name": "Queen of Wands"
+    },
+    {
+      "ordering": 35,
+      "arcana": "Wands",
+      "name": "King of Wands"
+    },
+    {
+      "ordering": 36,
+      "arcana": "Cups",
+      "name": "Ace of Cups"
+    },
+    {
+      "ordering": 37,
+      "arcana": "Cups",
+      "name": "Two of Cups"
+    },
+    {
+      "ordering": 38,
+      "arcana": "Cups",
+      "name": "Three of Cups"
+    },
+    {
+      "ordering": 39,
+      "arcana": "Cups",
+      "name": "Four of Cups"
+    },
+    {
+      "ordering": 40,
+      "arcana": "Cups",
+      "name": "Five of Cups"
+    },
+    {
+      "ordering": 41,
+      "arcana": "Cups",
+      "name": "Six of Cups"
+    },
+    {
+      "ordering": 42,
+      "arcana": "Cups",
+      "name": "Seven of Cups"
+    },
+    {
+      "ordering": 43,
+      "arcana": "Cups",
+      "name": "Eight of Cups"
+    },
+    {
+      "ordering": 44,
+      "arcana": "Cups",
+      "name": "Nine of Cups"
+    },
+    {
+      "ordering": 45,
+      "arcana": "Cups",
+      "name": "Ten of Cups"
+    },
+    {
+      "ordering": 46,
+      "arcana": "Cups",
+      "name": "Page of Cups"
+    },
+    {
+      "ordering": 47,
+      "arcana": "Cups",
+      "name": "Knight of Cups"
+    },
+    {
+      "ordering": 48,
+      "arcana": "Cups",
+      "name": "Queen of Cups"
+    },
+    {
+      "ordering": 49,
+      "arcana": "Cups",
+      "name": "King of Cups"
+    },
+    {
+      "ordering": 50,
+      "arcana": "Swords",
+      "name": "Ace of Swords"
+    },
+    {
+      "ordering": 51,
+      "arcana": "Swords",
+      "name": "Two of Swords"
+    },
+    {
+      "ordering": 52,
+      "arcana": "Swords",
+      "name": "Three of Swords"
+    },
+    {
+      "ordering": 53,
+      "arcana": "Swords",
+      "name": "Four of Swords"
+    },
+    {
+      "ordering": 54,
+      "arcana": "Swords",
+      "name": "Five of Swords"
+    },
+    {
+      "ordering": 55,
+      "arcana": "Swords",
+      "name": "Six of Swords"
+    },
+    {
+      "ordering": 56,
+      "arcana": "Swords",
+      "name": "Seven of Swords"
+    },
+    {
+      "ordering": 57,
+      "arcana": "Swords",
+      "name": "Eight of Swords"
+    },
+    {
+      "ordering": 58,
+      "arcana": "Swords",
+      "name": "Nine of Swords"
+    },
+    {
+      "ordering": 59,
+      "arcana": "Swords",
+      "name": "Ten of Swords"
+    },
+    {
+      "ordering": 60,
+      "arcana": "Swords",
+      "name": "Page of Swords"
+    },
+    {
+      "ordering": 61,
+      "arcana": "Swords",
+      "name": "Knight of Swords"
+    },
+    {
+      "ordering": 62,
+      "arcana": "Swords",
+      "name": "Queen of Swords"
+    },
+    {
+      "ordering": 63,
+      "arcana": "Swords",
+      "name": "King of Swords"
+    },
+    {
+      "ordering": 64,
+      "arcana": "Pentacles",
+      "name": "Ace of Pentacles"
+    },
+    {
+      "ordering": 65,
+      "arcana": "Pentacles",
+      "name": "Two of Pentacles"
+    },
+    {
+      "ordering": 66,
+      "arcana": "Pentacles",
+      "name": "Three of Pentacles"
+    },
+    {
+      "ordering": 67,
+      "arcana": "Pentacles",
+      "name": "Four of Pentacles"
+    },
+    {
+      "ordering": 68,
+      "arcana": "Pentacles",
+      "name": "Five of Pentacles"
+    },
+    {
+      "ordering": 69,
+      "arcana": "Pentacles",
+      "name": "Six of Pentacles"
+    },
+    {
+      "ordering": 70,
+      "arcana": "Pentacles",
+      "name": "Seven of Pentacles"
+    },
+    {
+      "ordering": 71,
+      "arcana": "Pentacles",
+      "name": "Eight of Pentacles"
+    },
+    {
+      "ordering": 72,
+      "arcana": "Pentacles",
+      "name": "Nine of Pentacles"
+    },
+    {
+      "ordering": 73,
+      "arcana": "Pentacles",
+      "name": "Ten of Pentacles"
+    },
+    {
+      "ordering": 74,
+      "arcana": "Pentacles",
+      "name": "Page of Pentacles"
+    },
+    {
+      "ordering": 75,
+      "arcana": "Pentacles",
+      "name": "Knight of Pentacles"
+    },
+    {
+      "ordering": 76,
+      "arcana": "Pentacles",
+      "name": "Queen of Pentacles"
+    },
+    {
+      "ordering": 77,
+      "arcana": "Pentacles",
+      "name": "King of Pentacles"
+    }
+  ]
+  

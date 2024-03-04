@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Three Card Spread",
+        "prompt": "You are a fortune teller, unabashed truth sayer, and you have a three card spread from your tarot deck for your customer, who is {} and astrology sign is {}, the past card is {}, the present is {}, and the future is {}. The customer said: {}. What do each of the cards mean for the customer given what the customer said? What is the overarching fortune that combines all of the cards in response to what they said?",
+        "prompt_terms": ["age","sign","card-0","card-1","card-2","response"],
+        "spread_count": 3,
+        "card_names": ["Past","Present","Future"],
+        "fortune_sequence": ["I'm ready","Draw Phase","My final fortune","New fortune"]
+    }
+]

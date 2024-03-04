@@ -3,8 +3,24 @@
         "name": "Three Card Spread",
         "prompt": "You are a fortune teller, unabashed truth sayer, and you have a three card spread from your tarot deck for your customer, who is {} and astrology sign is {}, the past card is {}, the present is {}, and the future is {}. The customer said: {}. What do each of the cards mean for the customer given what the customer said? What is the overarching fortune that combines all of the cards in response to what they said?",
         "prompt_terms": ["age","sign","card-0","card-1","card-2","response"],
+        "fortune_sequence": ["I'm ready","Draw Phase","My final fortune","New fortune"],
         "spread_count": 3,
-        "card_names": ["Past","Present","Future"],
-        "fortune_sequence": ["I'm ready","Draw Phase","My final fortune","New fortune"]
+        "card_description": [
+            {
+              "id": 0,
+              "name": "Past Position",
+              "description": "Reflects influences, events, or energies from the past that have led to the current situation. Provides context and sheds light on the history or background of the issue at hand."
+            },
+            {
+              "id": 1,
+              "name": "Present Position",
+              "description": "Reveals the current energies and influences surrounding the question. Offers insight into your current state of mind, emotions, or external factors affecting the situation."
+            },
+            {
+              "id": 2,
+              "name": "Future Position",
+              "description": "Provides a glimpse into potential outcomes or developments. Represents the energies that may come into play based on your current path and actions. Offers guidance on what to expect or be aware of in the near future."
+            }
+        ]
     }
 ]
